@@ -1,0 +1,1 @@
+{"lastDeploymentHandler":"com.amazonaws.lambda.demo.TrainSVM","lastInvokeHandler":null,"handlerMetadata":{"com.amazonaws.lambda.demo.TrainSVM":{"deployment":{"regionId":"us-east-1","awsLambdaFunctionName":"trainSVM","awsIamRoleName":"HelloTestRole","awsS3BucketName":"lambda-bucket-arpit","memory":0,"timeout":0},"invoke":null}},"lastInvokedHandlerDeployed":false}

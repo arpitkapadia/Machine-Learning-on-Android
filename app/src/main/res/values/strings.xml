@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MCProject</string>
+    <string name="Classifier">Choose a Classifier</string>
+    <string-array name="classifier_arrays">
+        <item>KNN</item>
+        <item>SVM</item>
+        <item>NBC</item>
+    </string-array>
+
+    <string-array name="svm_kernels">
+        <item>Poly</item>
+        <item>Linear</item>
+    </string-array>
+</resources>
